@@ -30,13 +30,13 @@ The quiz contains the following requirements:
 
   * When the quiz game ends, it should display their score and give the user the ability to save their initials and their score
   
-## Mock-Up
-![Alt text](<../../../Downloads/challenge (2)/starter/assets/screenshot.png>)
+## Deployment Application
 
+![Alt text](starter/assets/img/screenshot.png)
 
-## Deployment
+## Deployment Link
 
-
+https://divine2192.github.io/codingQuizGame/starter/index
 
 ---
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
